@@ -22,6 +22,7 @@
 		651547201C7A9BB1000607D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		651547231C7A9BB1000607D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		651547251C7A9BB1000607D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6515472B1C7A9BF7000607D1 /* velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = velocimetro.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				651547201C7A9BB1000607D1 /* Assets.xcassets */,
 				651547221C7A9BB1000607D1 /* LaunchScreen.storyboard */,
 				651547251C7A9BB1000607D1 /* Info.plist */,
+				6515472B1C7A9BF7000607D1 /* velocimetro.playground */,
 			);
 			path = velocimetro;
 			sourceTree = "<group>";
